@@ -14,6 +14,7 @@
 		0658FBF5282A0A6D004794B4 /* SwiftUIWeatherAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0658FBF4282A0A6D004794B4 /* SwiftUIWeatherAppTests.swift */; };
 		0658FBFF282A0A6D004794B4 /* SwiftUIWeatherAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0658FBFE282A0A6D004794B4 /* SwiftUIWeatherAppUITests.swift */; };
 		0658FC01282A0A6D004794B4 /* SwiftUIWeatherAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0658FC00282A0A6D004794B4 /* SwiftUIWeatherAppUITestsLaunchTests.swift */; };
+		06E180E5282A2E1D00F59FD0 /* ButtonDesignView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E180E4282A2E1D00F59FD0 /* ButtonDesignView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		0658FBFA282A0A6D004794B4 /* SwiftUIWeatherAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIWeatherAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0658FBFE282A0A6D004794B4 /* SwiftUIWeatherAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIWeatherAppUITests.swift; sourceTree = "<group>"; };
 		0658FC00282A0A6D004794B4 /* SwiftUIWeatherAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIWeatherAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		06E180E4282A2E1D00F59FD0 /* ButtonDesignView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonDesignView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				0658FBE3282A0A6A004794B4 /* SwiftUIWeatherAppApp.swift */,
 				0658FBE5282A0A6A004794B4 /* ContentView.swift */,
+				06E180E4282A2E1D00F59FD0 /* ButtonDesignView.swift */,
 				0658FBE7282A0A6D004794B4 /* Assets.xcassets */,
 				0658FBE9282A0A6D004794B4 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				0658FBE6282A0A6A004794B4 /* ContentView.swift in Sources */,
 				0658FBE4282A0A6A004794B4 /* SwiftUIWeatherAppApp.swift in Sources */,
+				06E180E5282A2E1D00F59FD0 /* ButtonDesignView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
